@@ -1,0 +1,22 @@
+# dependencies
+node_modules/
+
+# builds
+dist/
+build/
+
+# env & logs
+.env
+*.log
+npm-debug.log*
+
+# editors
+.vscode/
+.idea/
+
+# misc
+.DS_Store
+/src/generated/prisma
+
+# coverage reports
+coverage/
